@@ -1,0 +1,986 @@
+2017-11-30 14:48:00,230 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-11-30 14:49:03,100 - entry_new.py:89 - tst - INFO - data load done
+2017-11-30 14:49:09,829 - entry_new.py:47 - tst - INFO - model load done
+2017-11-30 14:49:10,019 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-11-30 14:52:16,404 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-11-30 14:52:16,404 - entry_new.py:107 - tst - INFO - detect process done
+2017-11-30 14:52:16,433 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-11-30 14:52:31,388 - entry_new.py:119 - tst - INFO - result write2db done
+2017-11-30 14:52:31,389 - entry_new.py:125 - tst - INFO - use time:563.3178987365643
+2017-11-30 15:11:59,586 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-11-30 15:58:18,638 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-11-30 15:59:12,422 - entry_new.py:89 - tst - INFO - data load done
+2017-11-30 15:59:27,637 - entry_new.py:47 - tst - INFO - model load done
+2017-11-30 15:59:27,841 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-11-30 16:02:41,583 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-11-30 16:02:41,583 - entry_new.py:107 - tst - INFO - detect process done
+2017-11-30 16:02:41,598 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-11-30 16:02:58,339 - entry_new.py:119 - tst - INFO - result write2db done
+2017-11-30 16:02:58,339 - entry_new.py:125 - tst - INFO - use time:563.7494422630829
+2017-11-30 16:24:27,690 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-11-30 16:25:18,348 - entry_new.py:89 - tst - INFO - data load done
+2017-11-30 16:25:25,009 - entry_new.py:47 - tst - INFO - model load done
+2017-11-30 16:25:25,789 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-11-30 16:28:38,364 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-11-30 16:28:38,364 - entry_new.py:107 - tst - INFO - detect process done
+2017-11-30 16:28:38,380 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-11-30 16:28:55,326 - entry_new.py:119 - tst - INFO - result write2db done
+2017-11-30 16:28:55,326 - entry_new.py:125 - tst - INFO - use time:543.9381691723052
+2017-12-02 18:49:28,195 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 18:50:18,298 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 18:50:23,505 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 18:50:23,679 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 18:53:57,391 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-12-02 18:53:57,391 - entry_new.py:107 - tst - INFO - detect process done
+2017-12-02 18:53:57,416 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-12-02 18:54:15,463 - entry_new.py:119 - tst - INFO - result write2db done
+2017-12-02 18:54:15,463 - entry_new.py:125 - tst - INFO - use time:587.2539778023802
+2017-12-02 19:50:32,295 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 19:51:24,836 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 19:51:30,482 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 19:51:30,649 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 20:34:54,274 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 20:35:51,043 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 20:35:55,667 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 20:35:55,838 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 20:36:42,832 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-12-02 20:36:42,832 - entry_new.py:107 - tst - INFO - detect process done
+2017-12-02 20:36:42,864 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-12-02 20:36:44,196 - entry_new.py:119 - tst - INFO - result write2db done
+2017-12-02 20:36:44,196 - entry_new.py:125 - tst - INFO - use time:258.6801332795778
+2017-12-02 20:37:07,676 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 20:37:55,134 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 20:37:58,645 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 20:37:58,770 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 20:38:58,622 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-12-02 20:38:58,623 - entry_new.py:107 - tst - INFO - detect process done
+2017-12-02 20:38:58,640 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-12-02 20:39:00,370 - entry_new.py:119 - tst - INFO - result write2db done
+2017-12-02 20:39:00,370 - entry_new.py:125 - tst - INFO - use time:262.34857430528444
+2017-12-02 20:41:30,066 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 20:42:21,874 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 20:42:25,610 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 20:42:25,719 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 20:43:13,505 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-12-02 20:43:13,505 - entry_new.py:107 - tst - INFO - detect process done
+2017-12-02 20:43:13,660 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-12-02 20:43:15,227 - entry_new.py:119 - tst - INFO - result write2db done
+2017-12-02 20:43:15,227 - entry_new.py:125 - tst - INFO - use time:248.73759409883763
+2017-12-02 20:45:36,465 - entry_new.py:74 - tst - INFO - power consume data write2db done
+2017-12-02 20:46:45,415 - entry_new.py:89 - tst - INFO - data load done
+2017-12-02 20:46:49,724 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 20:46:49,853 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 20:47:33,556 - entry_new.py:105 - tst - INFO - userinfo write2db done
+2017-12-02 20:47:33,556 - entry_new.py:107 - tst - INFO - detect process done
+2017-12-02 20:47:33,587 - entry_new.py:114 - tst - INFO - metadata write2db done
+2017-12-02 20:47:35,006 - entry_new.py:119 - tst - INFO - result write2db done
+2017-12-02 20:47:35,006 - entry_new.py:125 - tst - INFO - use time:255.65111510722306
+2017-12-02 22:31:42,194 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-02 22:32:42,213 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-02 22:33:00,859 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-02 22:33:18,243 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-02 22:33:19,010 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-02 22:33:52,490 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-02 22:33:52,491 - entry_new.py:95 - tst - INFO - data load done
+2017-12-02 22:33:57,464 - entry_new.py:47 - tst - INFO - model load done
+2017-12-02 22:33:58,683 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-02 22:34:44,756 - entry_new.py:111 - tst - INFO - userinfo write2db done
+2017-12-02 22:34:44,756 - entry_new.py:113 - tst - INFO - detect process done
+2017-12-02 22:34:44,776 - entry_new.py:120 - tst - INFO - metadata write2db done
+2017-12-02 22:34:46,182 - entry_new.py:125 - tst - INFO - result write2db done
+2017-12-02 22:34:46,182 - entry_new.py:131 - tst - INFO - use time:183.97208253606632
+2017-12-03 20:42:15,499 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-03 20:43:14,492 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-03 20:43:30,260 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-03 20:43:50,556 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-03 20:43:52,139 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-03 20:44:22,739 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-03 20:44:22,739 - entry_new.py:95 - tst - INFO - data load done
+2017-12-03 20:44:25,969 - entry_new.py:47 - tst - INFO - model load done
+2017-12-03 20:44:26,704 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-03 20:45:12,223 - entry_new.py:111 - tst - INFO - userinfo write2db done
+2017-12-03 20:45:12,223 - entry_new.py:113 - tst - INFO - detect process done
+2017-12-03 20:45:12,292 - entry_new.py:120 - tst - INFO - metadata write2db done
+2017-12-03 20:45:13,537 - entry_new.py:125 - tst - INFO - result write2db done
+2017-12-03 20:45:13,537 - entry_new.py:131 - tst - INFO - use time:178.03766730548364
+2017-12-03 22:18:51,898 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-03 22:22:17,900 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-03 22:23:14,414 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-03 22:23:36,519 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-03 22:23:51,835 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-03 22:23:52,662 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-03 22:23:52,709 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-03 22:23:52,709 - entry_new.py:95 - tst - INFO - data load done
+2017-12-03 23:08:42,251 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-03 23:09:39,043 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-03 23:10:00,865 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-03 23:10:16,559 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-03 23:10:17,230 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-03 23:10:48,432 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-03 23:10:48,432 - entry_new.py:95 - tst - INFO - data load done
+2017-12-03 23:10:53,229 - entry_new.py:47 - tst - INFO - model load done
+2017-12-03 23:10:54,149 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-03 23:11:37,486 - entry_new.py:111 - tst - INFO - userinfo write2db done
+2017-12-03 23:11:37,486 - entry_new.py:113 - tst - INFO - detect process done
+2017-12-03 23:11:37,503 - entry_new.py:120 - tst - INFO - metadata write2db done
+2017-12-03 23:11:38,303 - entry_new.py:125 - tst - INFO - result write2db done
+2017-12-03 23:11:38,303 - entry_new.py:131 - tst - INFO - use time:176.0406861849998
+2017-12-04 14:24:40,648 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-04 14:25:49,713 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-04 14:26:07,753 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-04 14:28:11,239 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-04 14:29:19,555 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-04 14:29:38,079 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-04 14:40:56,835 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-04 14:45:29,540 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-04 15:10:44,591 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 15:10:44,592 - entry_new.py:72 - tst - INFO - get formated elecconsume data done
+2017-12-04 15:14:42,673 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 15:14:42,674 - entry_new.py:72 - tst - INFO - get formated elecconsume data done
+2017-12-04 15:36:57,027 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 15:40:35,232 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 15:48:46,529 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 15:59:57,419 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 15:59:57,495 - entry_new.py:126 - tst - INFO - userinfo write2db done
+2017-12-04 15:59:57,495 - entry_new.py:128 - tst - INFO - detect process done
+2017-12-04 16:07:35,397 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 16:07:35,440 - entry_new.py:126 - tst - INFO - userinfo write2db done
+2017-12-04 16:07:35,440 - entry_new.py:128 - tst - INFO - detect process done
+2017-12-04 16:09:43,316 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 16:09:43,366 - entry_new.py:126 - tst - INFO - userinfo write2db done
+2017-12-04 16:09:43,367 - entry_new.py:128 - tst - INFO - detect process done
+2017-12-04 16:13:13,385 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-04 16:14:21,275 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-04 16:14:39,541 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-04 16:15:00,162 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-04 16:15:01,382 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-04 16:15:42,139 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-04 16:15:42,139 - entry_new.py:95 - tst - INFO - data load done
+2017-12-04 16:15:46,771 - entry_new.py:47 - tst - INFO - model load done
+2017-12-04 16:15:47,755 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-04 16:16:37,073 - entry_new.py:111 - tst - INFO - userinfo write2db done
+2017-12-04 16:16:37,073 - entry_new.py:113 - tst - INFO - detect process done
+2017-12-04 16:16:37,089 - entry_new.py:120 - tst - INFO - metadata write2db done
+2017-12-04 16:16:38,321 - entry_new.py:125 - tst - INFO - result write2db done
+2017-12-04 16:16:38,337 - entry_new.py:131 - tst - INFO - use time:204.93550845053298
+2017-12-04 16:21:39,228 - entry_new.py:69 - tst - INFO - start efilch detecting
+2017-12-04 16:32:43,566 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 16:33:54,904 - entry_new.py:69 - tst - INFO - get formated elecconsume data done
+2017-12-04 16:34:11,967 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2017-12-04 16:34:29,985 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2017-12-04 16:34:30,835 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2017-12-04 16:35:12,863 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2017-12-04 16:35:12,863 - entry_new.py:96 - tst - INFO - data load done
+2017-12-04 16:35:20,926 - entry_new.py:47 - tst - INFO - model load done
+2017-12-04 16:35:22,939 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-04 16:36:13,618 - entry_new.py:115 - tst - INFO - userinfo write2db done
+2017-12-04 16:36:13,618 - entry_new.py:117 - tst - INFO - detect process done
+2017-12-04 16:36:13,632 - entry_new.py:124 - tst - INFO - metadata write2db done
+2017-12-04 16:36:15,283 - entry_new.py:129 - tst - INFO - result write2db done
+2017-12-04 16:36:15,283 - entry_new.py:134 - tst - INFO - use time:211.7068237813762
+2017-12-04 16:37:28,571 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 16:38:07,777 - entry_new.py:69 - tst - INFO - get formated elecconsume data done
+2017-12-04 16:38:07,852 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2017-12-04 16:38:53,401 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2017-12-04 16:38:54,316 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2017-12-04 16:38:54,400 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2017-12-04 16:38:54,400 - entry_new.py:96 - tst - INFO - data load done
+2017-12-04 16:39:10,022 - entry_new.py:115 - tst - INFO - userinfo write2db done
+2017-12-04 16:39:10,022 - entry_new.py:117 - tst - INFO - detect process done
+2017-12-04 16:45:13,812 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 16:45:48,961 - entry_new.py:69 - tst - INFO - get formated elecconsume data done
+2017-12-04 16:45:49,035 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2017-12-04 16:46:30,207 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2017-12-04 16:46:30,946 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2017-12-04 16:46:31,008 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2017-12-04 16:46:31,009 - entry_new.py:96 - tst - INFO - data load done
+2017-12-04 16:46:45,107 - entry_new.py:116 - tst - INFO - userinfo write2db done
+2017-12-04 16:46:45,107 - entry_new.py:118 - tst - INFO - detect process done
+2017-12-04 17:08:51,824 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 17:09:31,496 - entry_new.py:69 - tst - INFO - get formated elecconsume data done
+2017-12-04 17:09:31,578 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2017-12-04 17:09:49,534 - entry_new.py:116 - tst - INFO - userinfo write2db done
+2017-12-04 17:09:49,534 - entry_new.py:118 - tst - INFO - detect process done
+2017-12-04 17:14:40,218 - entry_new.py:66 - tst - INFO - start efilch detecting
+2017-12-04 17:15:42,531 - entry_new.py:69 - tst - INFO - get formated elecconsume data done
+2017-12-04 17:16:00,049 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2017-12-04 17:16:19,492 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2017-12-04 17:16:20,308 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2017-12-04 17:16:53,740 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2017-12-04 17:16:53,740 - entry_new.py:96 - tst - INFO - data load done
+2017-12-04 17:16:58,280 - entry_new.py:47 - tst - INFO - model load done
+2017-12-04 17:16:59,715 - entry_new.py:56 - tst - INFO - predict result outout done
+2017-12-04 17:17:47,283 - entry_new.py:116 - tst - INFO - userinfo write2db done
+2017-12-04 17:17:47,283 - entry_new.py:118 - tst - INFO - detect process done
+2017-12-04 17:17:47,299 - entry_new.py:125 - tst - INFO - metadata write2db done
+2017-12-04 17:17:48,519 - entry_new.py:130 - tst - INFO - result write2db done
+2017-12-04 17:17:48,519 - entry_new.py:136 - tst - INFO - use time:188.29498172944216
+2017-12-05 14:32:52,298 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:23:49,904 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:29:06,661 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:31:39,752 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:32:14,299 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:35:29,783 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:36:32,282 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-05 15:36:50,976 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-05 15:37:08,711 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-05 15:37:09,562 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-05 15:37:45,274 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-05 15:37:45,284 - entry_new.py:95 - tst - INFO - data load done
+2017-12-05 15:37:57,081 - entry_new.py:48 - tst - INFO - model load done
+2017-12-05 15:37:59,082 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-05 15:38:54,031 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-05 15:38:54,031 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-05 15:38:54,050 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-05 15:38:55,882 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-05 15:38:55,883 - entry_new.py:140 - tst - INFO - use time:206.08374030739037
+2017-12-05 15:47:49,888 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-05 15:48:50,344 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-05 15:49:09,793 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-05 15:49:26,563 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-05 15:49:27,378 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-05 15:49:59,109 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-05 15:49:59,110 - entry_new.py:95 - tst - INFO - data load done
+2017-12-05 15:50:03,676 - entry_new.py:48 - tst - INFO - model load done
+2017-12-05 15:50:05,124 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-05 15:50:51,213 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-05 15:50:51,213 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-05 15:50:51,235 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-05 15:50:52,933 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-05 15:50:52,934 - entry_new.py:140 - tst - INFO - use time:183.03176338833367
+2017-12-05 15:53:59,295 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-05 15:54:58,507 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-05 15:55:17,706 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-05 15:55:33,794 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-05 15:55:34,514 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-05 15:56:04,698 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-05 15:56:04,699 - entry_new.py:61 - tst - INFO - data load done
+2017-12-05 15:56:09,283 - entry_new.py:30 - tst - INFO - model load done
+2017-12-05 15:56:10,121 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-05 15:56:57,064 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-05 15:56:57,064 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-05 15:56:57,087 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-05 15:56:58,710 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-05 15:56:58,710 - entry_new.py:89 - tst - INFO - use time:179.40154015166868
+2017-12-06 19:08:46,986 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-06 19:09:23,678 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-06 19:09:31,368 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-06 19:09:42,632 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-06 19:09:43,147 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-06 19:10:05,158 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-06 19:10:05,158 - entry_new.py:95 - tst - INFO - data load done
+2017-12-06 19:12:29,576 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-06 19:13:07,250 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-06 19:13:15,727 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-06 19:13:25,574 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-06 19:13:26,042 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-06 19:13:48,624 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-06 19:13:48,624 - entry_new.py:95 - tst - INFO - data load done
+2017-12-06 19:18:28,524 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-06 19:19:05,852 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-06 19:19:14,276 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-06 19:19:23,922 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-06 19:19:24,397 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-06 19:19:46,852 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-06 19:19:46,853 - entry_new.py:95 - tst - INFO - data load done
+2017-12-06 19:19:49,318 - entry_new.py:48 - tst - INFO - model load done
+2017-12-06 19:19:50,020 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-06 19:20:12,982 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-06 19:20:12,982 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-06 19:20:13,036 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-06 19:20:13,837 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-06 19:20:13,837 - entry_new.py:140 - tst - INFO - use time:105.31062545152238
+2017-12-07 09:27:37,294 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-07 09:28:15,591 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-07 09:28:24,004 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-07 09:28:34,461 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-07 09:28:34,984 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-07 09:28:58,015 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-07 09:28:58,015 - entry_new.py:95 - tst - INFO - data load done
+2017-12-07 09:29:00,703 - entry_new.py:48 - tst - INFO - model load done
+2017-12-07 09:29:01,352 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-07 09:29:25,078 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-07 09:29:25,078 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-07 09:29:25,132 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-07 09:29:26,023 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-07 09:29:26,024 - entry_new.py:140 - tst - INFO - use time:108.72737740971121
+2017-12-07 09:34:36,693 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-07 09:35:13,854 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-07 09:35:22,586 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-07 09:35:32,073 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-07 09:35:32,532 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-07 09:35:55,343 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-07 09:35:55,343 - entry_new.py:95 - tst - INFO - data load done
+2017-12-07 09:35:57,909 - entry_new.py:48 - tst - INFO - model load done
+2017-12-07 09:35:58,547 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-07 09:36:22,561 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-07 09:36:22,561 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-07 09:36:22,602 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-07 09:36:23,446 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-07 09:36:23,446 - entry_new.py:140 - tst - INFO - use time:106.75143332521756
+2017-12-07 09:37:28,212 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-07 09:38:05,792 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-07 09:38:14,385 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-07 09:38:24,193 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-07 09:38:24,676 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-07 09:38:47,326 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-07 09:38:47,326 - entry_new.py:95 - tst - INFO - data load done
+2017-12-07 09:38:49,907 - entry_new.py:48 - tst - INFO - model load done
+2017-12-07 09:38:50,556 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-07 09:39:15,215 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-07 09:39:15,215 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-07 09:39:15,283 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-07 09:39:16,017 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-07 09:39:16,017 - entry_new.py:140 - tst - INFO - use time:107.80273254080166
+2017-12-07 09:41:28,494 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 09:42:08,254 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 09:42:17,042 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 09:42:27,843 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 09:42:28,360 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 09:42:51,755 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 09:42:51,755 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 09:42:54,449 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 09:42:55,066 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 09:43:21,313 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 09:43:21,313 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 09:43:21,355 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 09:43:22,074 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 09:43:22,074 - entry_new.py:89 - tst - INFO - use time:113.57781437789836
+2017-12-07 10:08:45,638 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:09:24,410 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:09:33,241 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:09:45,068 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 10:09:45,698 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 10:10:08,186 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 10:10:08,187 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 10:10:10,712 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 10:10:11,373 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 10:10:38,327 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 10:10:38,327 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 10:10:38,377 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 10:10:39,157 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 10:10:39,157 - entry_new.py:89 - tst - INFO - use time:113.5168261404308
+2017-12-07 10:16:50,965 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:17:12,650 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:17:12,897 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:17:38,299 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:18:00,261 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:18:00,488 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:23:21,431 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:24:00,268 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:24:09,249 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:24:21,123 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 10:24:21,654 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 10:24:44,171 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 10:24:44,172 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 10:24:46,704 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 10:24:47,385 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 10:25:14,007 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 10:25:14,007 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 10:25:14,054 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 10:25:14,946 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 10:25:14,946 - entry_new.py:89 - tst - INFO - use time:113.51227513686081
+2017-12-07 10:32:46,191 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:33:22,801 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:34:00,016 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:34:08,625 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:34:18,404 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 10:34:18,876 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 10:34:41,341 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 10:34:41,341 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 10:34:44,115 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 10:34:44,718 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 10:35:11,363 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 10:35:11,363 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 10:35:11,413 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 10:35:12,205 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 10:35:12,205 - entry_new.py:89 - tst - INFO - use time:109.40184737160513
+2017-12-07 10:47:01,672 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 10:47:39,453 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 10:47:47,773 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 10:47:57,514 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 10:47:57,993 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 10:48:20,489 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 10:48:20,490 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 10:48:23,054 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 10:48:23,709 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 10:48:51,075 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 10:48:51,075 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 10:48:51,119 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 10:48:51,884 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 10:48:51,884 - entry_new.py:89 - tst - INFO - use time:110.21058519582458
+2017-12-07 10:58:58,709 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 11:02:23,220 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 11:05:10,703 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 11:05:48,207 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 11:05:57,175 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 11:06:06,915 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 11:06:07,387 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 11:06:29,876 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 11:06:29,876 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 11:06:32,444 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 11:06:33,096 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 11:06:59,040 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 11:06:59,040 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 11:06:59,081 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 11:06:59,834 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 11:06:59,834 - entry_new.py:89 - tst - INFO - use time:109.12924502320404
+2017-12-07 11:26:59,064 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 11:27:36,284 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 11:27:43,832 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 11:27:53,575 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 11:27:54,048 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 11:28:16,526 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 11:28:16,527 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 11:28:19,049 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 11:28:19,685 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 11:28:46,451 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 11:28:46,451 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 11:28:46,539 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 11:28:47,416 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 11:28:47,416 - entry_new.py:89 - tst - INFO - use time:108.35046376730611
+2017-12-07 11:31:16,943 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 11:31:54,111 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 11:32:02,696 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 11:32:12,341 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 11:32:12,815 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 11:32:35,255 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 11:32:35,255 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 11:32:37,748 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 11:32:38,348 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 11:33:04,843 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 11:33:04,843 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 11:33:04,888 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 11:33:05,600 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 11:33:05,600 - entry_new.py:89 - tst - INFO - use time:108.65446327922002
+2017-12-07 14:40:19,682 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 14:40:57,107 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 14:41:05,502 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 14:41:15,268 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 14:41:15,739 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 14:41:38,436 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 14:41:38,436 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 14:41:40,961 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 14:41:41,586 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 14:42:08,390 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 14:42:08,390 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 14:42:08,460 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 14:42:09,304 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 14:42:09,304 - entry_new.py:89 - tst - INFO - use time:109.62071435047203
+2017-12-07 15:17:21,862 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 15:17:22,810 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 15:17:24,912 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 15:17:29,831 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 15:17:30,304 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 15:17:30,970 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 15:17:30,971 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 15:19:32,647 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 15:19:33,599 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 15:19:35,162 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 15:19:40,085 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 15:19:40,558 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 15:19:41,201 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 15:19:41,201 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 15:19:41,260 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 15:19:41,281 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 15:19:43,174 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 15:19:43,174 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 15:19:43,204 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 15:19:43,662 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 15:19:43,662 - entry_new.py:89 - tst - INFO - use time:11.015471644536488
+2017-12-07 16:12:20,823 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:12:21,776 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:12:24,162 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:12:29,105 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:12:29,630 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:12:30,271 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:12:30,272 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:12:30,329 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:12:30,350 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:12:32,247 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:12:32,247 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:12:32,271 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:12:32,454 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:12:32,454 - entry_new.py:89 - tst - INFO - use time:11.630691320335572
+2017-12-07 16:14:17,745 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:14:18,716 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:14:20,764 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:14:25,696 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:14:26,168 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:14:26,810 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:14:26,810 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:14:26,869 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:14:26,889 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:14:29,914 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:14:29,915 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:14:29,950 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:14:30,142 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:14:30,142 - entry_new.py:89 - tst - INFO - use time:12.397578328978001
+2017-12-07 16:19:47,947 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:19:48,937 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:19:51,134 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:19:56,124 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:19:56,627 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:19:57,297 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:19:57,297 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:19:57,353 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:19:57,378 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:19:59,520 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:19:59,520 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:19:59,544 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:19:59,809 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:19:59,809 - entry_new.py:89 - tst - INFO - use time:11.86196743165797
+2017-12-07 16:22:39,994 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:22:40,943 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:22:42,846 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:22:47,760 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:22:48,231 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:22:48,869 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:22:48,869 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:22:48,926 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:22:48,974 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:22:50,990 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:22:50,990 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:22:51,012 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:22:51,196 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:22:51,196 - entry_new.py:89 - tst - INFO - use time:11.201395093708538
+2017-12-07 16:23:51,781 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:23:52,729 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:23:54,564 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:23:59,479 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:23:59,950 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:24:00,588 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:24:00,588 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:24:00,645 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:24:00,666 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:24:03,661 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:24:03,661 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:24:03,686 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:24:03,882 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:24:03,882 - entry_new.py:89 - tst - INFO - use time:12.100371823520389
+2017-12-07 16:25:31,744 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:25:32,694 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:25:34,835 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:25:39,723 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:25:40,193 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:25:40,831 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:25:40,832 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:25:40,888 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:25:40,916 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:25:43,918 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:25:43,918 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:25:43,951 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:25:44,133 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:25:44,133 - entry_new.py:89 - tst - INFO - use time:12.389562541445978
+2017-12-07 16:26:28,433 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:26:29,378 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:26:31,157 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:26:36,377 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:26:36,847 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:26:37,486 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:26:37,486 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:26:37,543 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:26:37,570 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:26:40,226 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:26:40,226 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:26:40,248 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:26:40,532 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:26:40,532 - entry_new.py:89 - tst - INFO - use time:12.098934649493184
+2017-12-07 16:32:51,337 - entry_new.py:39 - tst - INFO - start efilch detecting
+2017-12-07 16:32:52,282 - entry_new.py:41 - tst - INFO - get formated elecconsume data done
+2017-12-07 16:32:54,801 - entry_new.py:48 - tst - INFO - power consume data write2db done
+2017-12-07 16:32:59,691 - entry_new.py:50 - tst - INFO - get formated lineloss data done
+2017-12-07 16:33:00,158 - entry_new.py:52 - tst - INFO - get formated id2zone data done
+2017-12-07 16:33:00,797 - entry_new.py:55 - tst - INFO - get formated sampleset data done
+2017-12-07 16:33:00,798 - entry_new.py:61 - tst - INFO - data load done
+2017-12-07 16:33:00,856 - entry_new.py:30 - tst - INFO - model load done
+2017-12-07 16:33:00,881 - entry_new.py:36 - tst - INFO - predict result outout done
+2017-12-07 16:33:03,977 - entry_new.py:77 - tst - INFO - userinfo write2db done
+2017-12-07 16:33:03,977 - entry_new.py:78 - tst - INFO - detect process done
+2017-12-07 16:33:04,014 - entry_new.py:83 - tst - INFO - metadata write2db done
+2017-12-07 16:33:04,202 - entry_new.py:85 - tst - INFO - result write2db done
+2017-12-07 16:33:04,202 - entry_new.py:89 - tst - INFO - use time:12.864628812245943
+2017-12-12 16:23:27,558 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-12 16:24:28,840 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-12 16:24:49,457 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-12 16:25:07,239 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-12 16:25:07,988 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-12 16:25:40,991 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-12 16:25:40,991 - entry_new.py:95 - tst - INFO - data load done
+2017-12-12 16:25:45,033 - entry_new.py:48 - tst - INFO - model load done
+2017-12-12 16:25:45,986 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-12 16:26:36,877 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-12 16:26:36,878 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-12 16:26:36,896 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-12 16:26:38,720 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-12 16:26:38,720 - entry_new.py:140 - tst - INFO - use time:191.1559141711764
+2017-12-12 16:34:09,493 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-12 16:35:13,447 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-12 16:35:34,686 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-12 16:42:39,532 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-12 16:43:36,925 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-12 16:43:56,647 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-18 10:57:46,543 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-18 10:57:48,067 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-18 10:57:48,996 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-18 10:57:57,455 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-18 10:57:58,215 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-18 10:57:59,416 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-18 10:57:59,416 - entry_new.py:95 - tst - INFO - data load done
+2017-12-18 10:58:00,061 - entry_new.py:48 - tst - INFO - model load done
+2017-12-18 10:58:00,122 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-18 10:58:02,061 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-18 10:58:02,062 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-18 10:58:02,078 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-18 10:58:02,230 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-18 10:58:02,230 - entry_new.py:140 - tst - INFO - use time:15.686547895247466
+2017-12-18 13:51:59,683 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-18 13:52:01,391 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-18 13:52:02,517 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-18 13:52:10,239 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-18 13:52:10,984 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-18 13:52:11,945 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-18 13:52:11,946 - entry_new.py:95 - tst - INFO - data load done
+2017-12-18 13:52:12,383 - entry_new.py:48 - tst - INFO - model load done
+2017-12-18 13:52:12,425 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-18 13:52:14,017 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-18 13:52:14,018 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-18 13:52:14,026 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-18 13:52:14,157 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-18 13:52:14,157 - entry_new.py:140 - tst - INFO - use time:14.47371501856319
+2017-12-18 16:41:41,442 - entry_new.py:65 - tst - INFO - start efilch detecting
+2017-12-18 16:42:44,822 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2017-12-18 16:43:05,028 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2017-12-18 16:43:22,940 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2017-12-18 16:43:23,834 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2017-12-18 16:44:02,299 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2017-12-18 16:44:02,300 - entry_new.py:95 - tst - INFO - data load done
+2017-12-18 16:44:12,301 - entry_new.py:48 - tst - INFO - model load done
+2017-12-18 16:44:14,869 - entry_new.py:57 - tst - INFO - predict result outout done
+2017-12-18 16:45:05,093 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2017-12-18 16:45:05,093 - entry_new.py:122 - tst - INFO - detect process done
+2017-12-18 16:45:05,111 - entry_new.py:129 - tst - INFO - metadata write2db done
+2017-12-18 16:45:06,791 - entry_new.py:134 - tst - INFO - result write2db done
+2017-12-18 16:45:06,791 - entry_new.py:140 - tst - INFO - use time:205.3370330297634
+2018-02-06 10:33:34,253 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-02-06 10:33:35,753 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-02-06 10:33:36,543 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2018-02-06 10:33:44,314 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2018-02-06 10:33:45,121 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2018-02-06 10:33:46,076 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2018-02-06 10:33:46,076 - entry_new.py:95 - tst - INFO - data load done
+2018-02-06 10:33:46,513 - entry_new.py:48 - tst - INFO - model load done
+2018-02-06 10:33:46,572 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-02-06 10:33:47,978 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2018-02-06 10:33:47,979 - entry_new.py:122 - tst - INFO - detect process done
+2018-02-06 10:33:47,992 - entry_new.py:129 - tst - INFO - metadata write2db done
+2018-02-06 10:33:48,102 - entry_new.py:134 - tst - INFO - result write2db done
+2018-02-06 10:33:48,102 - entry_new.py:140 - tst - INFO - use time:13.848244018552863
+2018-02-10 09:57:03,916 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-02-10 09:57:05,376 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-02-10 09:57:06,486 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2018-02-10 09:57:14,044 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2018-02-10 09:57:14,911 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2018-02-10 09:57:15,826 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2018-02-10 09:57:15,826 - entry_new.py:95 - tst - INFO - data load done
+2018-02-10 09:57:16,289 - entry_new.py:48 - tst - INFO - model load done
+2018-02-10 09:57:16,364 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-02-10 09:57:17,884 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2018-02-10 09:57:17,884 - entry_new.py:122 - tst - INFO - detect process done
+2018-02-10 09:57:17,889 - entry_new.py:129 - tst - INFO - metadata write2db done
+2018-02-10 09:57:17,979 - entry_new.py:134 - tst - INFO - result write2db done
+2018-02-10 09:57:17,979 - entry_new.py:140 - tst - INFO - use time:14.063573244632897
+2018-04-27 11:36:14,320 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-04-27 11:36:15,837 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-04-27 11:36:17,102 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2018-04-27 11:36:25,092 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2018-04-27 11:36:26,130 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2018-04-27 11:36:27,189 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2018-04-27 11:36:27,189 - entry_new.py:95 - tst - INFO - data load done
+2018-04-27 11:36:27,736 - entry_new.py:48 - tst - INFO - model load done
+2018-04-27 11:36:27,820 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-04-27 11:36:29,366 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2018-04-27 11:36:29,366 - entry_new.py:122 - tst - INFO - detect process done
+2018-04-27 11:36:29,375 - entry_new.py:129 - tst - INFO - metadata write2db done
+2018-04-27 11:36:29,478 - entry_new.py:134 - tst - INFO - result write2db done
+2018-04-27 11:36:29,478 - entry_new.py:140 - tst - INFO - use time:15.157509363799226
+2018-05-14 09:17:23,384 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 09:17:24,845 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 09:17:26,158 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2018-05-14 09:17:33,744 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2018-05-14 09:17:34,516 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2018-05-14 09:17:35,430 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2018-05-14 09:17:35,430 - entry_new.py:95 - tst - INFO - data load done
+2018-05-14 09:17:36,044 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 09:17:36,098 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 09:17:37,426 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2018-05-14 09:17:37,426 - entry_new.py:122 - tst - INFO - detect process done
+2018-05-14 09:17:37,435 - entry_new.py:129 - tst - INFO - metadata write2db done
+2018-05-14 09:17:37,545 - entry_new.py:134 - tst - INFO - result write2db done
+2018-05-14 09:17:37,545 - entry_new.py:140 - tst - INFO - use time:14.159670458501422
+2018-05-14 09:42:18,984 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 09:42:20,607 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 09:42:21,842 - entry_new.py:78 - tst - INFO - power consume data write2db done
+2018-05-14 09:42:29,802 - entry_new.py:82 - tst - INFO - get formated lineloss data done
+2018-05-14 09:42:30,563 - entry_new.py:84 - tst - INFO - get formated id2zone data done
+2018-05-14 09:42:31,507 - entry_new.py:88 - tst - INFO - get formated sampleset data done
+2018-05-14 09:42:31,507 - entry_new.py:95 - tst - INFO - data load done
+2018-05-14 09:42:31,646 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 09:42:31,652 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 09:42:33,139 - entry_new.py:120 - tst - INFO - userinfo write2db done
+2018-05-14 09:42:33,139 - entry_new.py:122 - tst - INFO - detect process done
+2018-05-14 09:42:33,149 - entry_new.py:129 - tst - INFO - metadata write2db done
+2018-05-14 09:42:33,225 - entry_new.py:134 - tst - INFO - result write2db done
+2018-05-14 09:42:33,225 - entry_new.py:140 - tst - INFO - use time:14.240055819493648
+2018-05-14 10:21:15,157 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:21:16,689 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:24:18,940 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:24:20,454 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:36:20,886 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:36:22,482 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:36:23,951 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 10:36:32,135 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 10:36:32,882 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 10:36:33,838 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 10:36:33,839 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 10:36:33,953 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 10:36:33,959 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 10:36:35,363 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 10:36:35,363 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 10:36:35,372 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 10:36:35,487 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 10:36:35,487 - entry_new.py:141 - tst - INFO - use time:14.600086434037093
+2018-05-14 10:41:19,252 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:41:20,744 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:41:21,021 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 10:41:29,322 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 10:41:30,136 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 10:41:31,160 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 10:41:31,160 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 10:41:31,311 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 10:41:31,320 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 10:41:32,898 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 10:41:32,899 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 10:41:32,906 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 10:41:33,001 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 10:41:33,001 - entry_new.py:141 - tst - INFO - use time:13.747043068553369
+2018-05-14 10:47:17,548 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:47:19,070 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:47:20,257 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 10:47:27,849 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 10:47:28,584 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 10:47:29,542 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 10:47:29,542 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 10:47:29,649 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 10:47:29,657 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 10:47:31,114 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 10:47:31,115 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 10:47:31,122 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 10:47:31,209 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 10:47:31,209 - entry_new.py:141 - tst - INFO - use time:13.659114993959003
+2018-05-14 10:57:08,329 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 10:57:10,069 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 10:57:11,248 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 10:57:20,425 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 10:57:21,311 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 10:57:22,482 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 10:57:22,482 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 10:57:22,592 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 10:57:22,597 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 10:57:24,314 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 10:57:24,314 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 10:57:24,323 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 10:57:24,407 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 10:57:24,408 - entry_new.py:141 - tst - INFO - use time:16.07704873412105
+2018-05-14 11:05:17,716 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 11:06:18,168 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 11:06:19,691 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 11:06:20,902 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 11:06:28,399 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 11:06:29,124 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 11:06:30,150 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 11:06:30,150 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 11:06:30,272 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 11:06:30,289 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 11:06:31,732 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 11:06:31,732 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 11:06:31,740 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 11:06:31,833 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 11:06:31,834 - entry_new.py:141 - tst - INFO - use time:13.664665373142478
+2018-05-14 11:07:03,454 - entry_new.py:65 - tst - INFO - start efilch detecting
+2018-05-14 11:07:04,900 - entry_new.py:68 - tst - INFO - get formated elecconsume data done
+2018-05-14 11:07:06,869 - entry_new.py:79 - tst - INFO - power consume data write2db done
+2018-05-14 11:07:14,043 - entry_new.py:83 - tst - INFO - get formated lineloss data done
+2018-05-14 11:07:14,724 - entry_new.py:85 - tst - INFO - get formated id2zone data done
+2018-05-14 11:07:15,595 - entry_new.py:89 - tst - INFO - get formated sampleset data done
+2018-05-14 11:07:15,595 - entry_new.py:96 - tst - INFO - data load done
+2018-05-14 11:07:15,711 - entry_new.py:48 - tst - INFO - model load done
+2018-05-14 11:07:15,716 - entry_new.py:57 - tst - INFO - predict result outout done
+2018-05-14 11:07:17,017 - entry_new.py:121 - tst - INFO - userinfo write2db done
+2018-05-14 11:07:17,017 - entry_new.py:123 - tst - INFO - detect process done
+2018-05-14 11:07:17,027 - entry_new.py:130 - tst - INFO - metadata write2db done
+2018-05-14 11:07:17,120 - entry_new.py:135 - tst - INFO - result write2db done
+2018-05-14 11:07:17,121 - entry_new.py:141 - tst - INFO - use time:13.664826210417818
+2018-06-19 20:58:51,276 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-19 21:01:20,026 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-19 21:04:17,211 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-19 21:04:18,771 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-06-19 21:04:21,795 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-06-19 21:04:29,823 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-06-19 21:04:30,608 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-06-19 21:04:31,557 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-06-19 21:04:31,559 - entry_new.py:107 - tst - INFO - data load done
+2018-06-19 21:04:31,634 - entry_new.py:56 - tst - INFO - model load done
+2018-06-19 21:04:31,702 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-06-19 21:04:33,342 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-06-19 21:04:33,342 - entry_new.py:135 - tst - INFO - detect process done
+2018-06-19 21:04:33,362 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-06-19 21:04:33,477 - entry_new.py:147 - tst - INFO - result write2db done
+2018-06-19 21:04:33,477 - entry_new.py:153 - tst - INFO - use time:16.266830241872864
+2018-06-19 21:54:01,565 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-19 21:55:11,617 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-06-19 21:55:42,258 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-06-19 21:56:02,220 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-06-19 21:56:03,628 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-06-19 21:56:39,794 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-06-19 21:56:39,797 - entry_new.py:107 - tst - INFO - data load done
+2018-06-19 21:56:47,905 - entry_new.py:56 - tst - INFO - model load done
+2018-06-19 21:56:48,200 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-06-19 21:57:40,769 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-06-19 21:57:40,769 - entry_new.py:135 - tst - INFO - detect process done
+2018-06-19 21:57:40,792 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-06-19 21:57:41,864 - entry_new.py:147 - tst - INFO - result write2db done
+2018-06-19 21:57:41,877 - entry_new.py:153 - tst - INFO - use time:220.28748534478785
+2018-06-20 15:26:42,926 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-20 15:26:44,777 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-06-20 15:26:46,584 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-06-20 15:26:56,575 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-06-20 15:26:57,488 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-06-20 15:26:58,651 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-06-20 15:26:58,652 - entry_new.py:107 - tst - INFO - data load done
+2018-06-20 15:26:58,740 - entry_new.py:56 - tst - INFO - model load done
+2018-06-20 15:26:58,806 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-06-20 15:27:00,343 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-06-20 15:27:00,343 - entry_new.py:135 - tst - INFO - detect process done
+2018-06-20 15:27:00,355 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-06-20 15:27:00,926 - entry_new.py:147 - tst - INFO - result write2db done
+2018-06-20 15:27:00,926 - entry_new.py:153 - tst - INFO - use time:17.998711125787466
+2018-06-20 15:35:20,859 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-06-20 15:35:22,386 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-06-20 15:35:24,786 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-06-20 15:35:32,887 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-06-20 15:35:33,767 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-06-20 15:35:34,747 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-06-20 15:35:34,747 - entry_new.py:107 - tst - INFO - data load done
+2018-06-20 15:35:34,824 - entry_new.py:56 - tst - INFO - model load done
+2018-06-20 15:35:34,879 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-06-20 15:35:36,577 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-06-20 15:35:36,577 - entry_new.py:135 - tst - INFO - detect process done
+2018-06-20 15:35:36,584 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-06-20 15:35:36,687 - entry_new.py:147 - tst - INFO - result write2db done
+2018-06-20 15:35:36,687 - entry_new.py:153 - tst - INFO - use time:15.825184542383525
+2018-08-14 11:37:28,934 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-14 11:37:30,430 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-14 11:37:32,810 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-14 11:37:40,237 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-14 11:37:40,962 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-14 11:37:41,931 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-14 11:37:41,932 - entry_new.py:107 - tst - INFO - data load done
+2018-08-14 11:37:42,011 - entry_new.py:56 - tst - INFO - model load done
+2018-08-14 11:37:42,068 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-14 11:37:43,492 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-14 11:37:43,492 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-14 11:37:43,508 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-14 11:37:43,606 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-14 11:37:43,606 - entry_new.py:153 - tst - INFO - use time:14.67104528909147
+2018-08-14 18:03:38,441 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:06:18,462 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:14:28,400 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:31:32,280 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:34:10,141 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:37:57,208 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:39:40,263 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:39:41,884 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 09:39:43,242 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 09:39:51,317 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 09:39:52,129 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 09:39:53,158 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 09:39:53,158 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 09:39:53,236 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 09:39:53,291 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 09:39:54,734 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 09:39:54,735 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 09:39:54,749 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 09:39:54,818 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 09:39:54,819 - entry_new.py:153 - tst - INFO - use time:14.554666557444055
+2018-08-15 09:41:25,438 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:53:25,638 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 09:53:27,399 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 09:53:28,752 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 09:53:37,689 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 09:53:38,566 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 09:53:39,788 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 09:53:39,788 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 09:53:39,808 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 09:53:39,814 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 09:53:41,233 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 09:53:41,233 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 09:53:41,243 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 09:53:41,290 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 09:53:41,290 - entry_new.py:153 - tst - INFO - use time:15.652115313479564
+2018-08-15 10:41:17,048 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 10:41:19,194 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 10:41:20,774 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 10:41:33,491 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 10:41:34,608 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 10:41:35,944 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 10:41:35,945 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 10:41:35,956 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 10:41:35,964 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 10:41:37,652 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 10:41:37,653 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 10:41:37,667 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 10:41:37,779 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 10:41:37,779 - entry_new.py:153 - tst - INFO - use time:20.730203934829937
+2018-08-15 10:47:47,781 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 10:47:49,604 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 10:47:51,017 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 10:48:00,387 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 10:48:01,310 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 10:48:02,503 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 10:48:02,503 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 10:48:02,508 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 10:48:02,513 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 10:48:03,939 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 10:48:03,939 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 10:48:03,949 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 10:48:03,992 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 10:48:03,993 - entry_new.py:153 - tst - INFO - use time:16.21121306643764
+2018-08-15 10:48:48,450 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 10:48:50,278 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 10:48:51,690 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 10:49:00,987 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 10:49:01,850 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 10:49:02,959 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 10:49:02,959 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 10:49:02,963 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 10:49:02,970 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 10:49:04,426 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 10:49:04,427 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 10:49:04,436 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 10:49:04,479 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 10:49:04,479 - entry_new.py:153 - tst - INFO - use time:16.0285698194883
+2018-08-15 10:58:49,120 - entry_new.py:75 - tst - INFO - start efilch detecting
+2018-08-15 10:58:50,857 - entry_new.py:78 - tst - INFO - get formated elecconsume data done
+2018-08-15 10:58:52,274 - entry_new.py:90 - tst - INFO - power consume data write2db done
+2018-08-15 10:59:01,180 - entry_new.py:94 - tst - INFO - get formated lineloss data done
+2018-08-15 10:59:02,033 - entry_new.py:96 - tst - INFO - get formated id2zone data done
+2018-08-15 10:59:03,144 - entry_new.py:100 - tst - INFO - get formated sampleset data done
+2018-08-15 10:59:03,144 - entry_new.py:107 - tst - INFO - data load done
+2018-08-15 10:59:03,213 - entry_new.py:56 - tst - INFO - model load done
+2018-08-15 10:59:03,221 - entry_new.py:65 - tst - INFO - predict result outout done
+2018-08-15 10:59:04,648 - entry_new.py:133 - tst - INFO - userinfo write2db done
+2018-08-15 10:59:04,648 - entry_new.py:135 - tst - INFO - detect process done
+2018-08-15 10:59:04,658 - entry_new.py:142 - tst - INFO - metadata write2db done
+2018-08-15 10:59:04,722 - entry_new.py:147 - tst - INFO - result write2db done
+2018-08-15 10:59:04,722 - entry_new.py:153 - tst - INFO - use time:15.600968838703373
